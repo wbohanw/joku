@@ -1,0 +1,5 @@
+url,company,role,location,category,ats,status,added_date,applied_date,pause_reason,missing_info,artifacts_dir,notes
+https://boards.greenhouse.io/acme/jobs/123456,Acme Corp,Software Engineer,Remote in USA,Remote USA,greenhouse,pending,2026-04-15,,,,,
+https://jobs.lever.co/shopify/abc-def-ghi,Shopify,Backend Engineer,Toronto ON,Canada,lever,submitted,2026-04-15,2026-04-15,,,,Submitted successfully
+https://app.ashbyhq.com/example/jobs/xyz,Example Co,Full Stack Engineer,Remote,Remote,ashby,paused,2026-04-15,,captcha,,"artifacts/example-co-full-stack-engineer-2026-04-15",CAPTCHA appeared — needs manual solve
+https://www.myworkdayjobs.com/company/job/id,Big Corp,Software Developer,New York NY,USA,workday,skipped,2026-04-15,,,salary; cover letter,,Required salary range and cover letter — not in answers.json

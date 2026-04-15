@@ -1,0 +1,131 @@
+{
+  "_version": 1,
+  "_source": "Copy this file to profile.json and fill in your details, OR run: bun run sync",
+  "_synced": "2026-01-01",
+
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "email_academic": "jane.doe@university.edu",
+  "phone": "+1 5550001234",
+  "linkedin": "https://www.linkedin.com/in/janedoe",
+  "github": "https://github.com/janedoe",
+  "website": "https://janedoe.dev",
+  "instagram": "",
+  "location": {
+    "address": "123 Main St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3A8",
+    "country": "Canada"
+  },
+
+  "summary": "Product-minded full-stack engineer with experience in SaaS, applied ML, and developer tooling. Enjoys solving real user problems and building reliable systems at scale.",
+
+  "workExperience": [
+    {
+      "company": "Acme Corp",
+      "title": "Software Engineering Intern",
+      "location": "Toronto, ON",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "current": false,
+      "stack": ["TypeScript", "React", "Node.js", "PostgreSQL"],
+      "bullets": [
+        "Built a real-time dashboard for monitoring API health, reducing on-call response time by 30%.",
+        "Refactored the authentication service to support SSO, enabling enterprise customer onboarding.",
+        "Wrote 150+ integration tests, increasing code coverage from 42% to 78%."
+      ]
+    },
+    {
+      "company": "Startup XYZ",
+      "title": "Frontend Developer (Contract)",
+      "location": "Remote",
+      "startDate": "2024-09",
+      "endDate": "2025-01",
+      "current": false,
+      "stack": ["React", "Tailwind", "Vite"],
+      "bullets": [
+        "Designed and implemented the user onboarding flow, improving activation rate by 22%.",
+        "Collaborated with design to ship a component library used across 4 product surfaces."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "University of Waterloo",
+      "degree": "Bachelor of Computer Science",
+      "major": "Computer Science",
+      "minor": "Statistics",
+      "location": "Waterloo, ON",
+      "startDate": "2021-09",
+      "endDate": "2026-04",
+      "current": true,
+      "gpa": "3.8"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "OpenRoute",
+      "stack": ["Python", "FastAPI", "Redis", "React"],
+      "bullets": [
+        "Built an open-source routing engine for multi-modal transit directions, serving 500+ daily users.",
+        "Integrated with 3 transit agency APIs; implemented a caching layer that reduced p99 latency by 60%."
+      ]
+    },
+    {
+      "name": "NoteSync",
+      "stack": ["TypeScript", "Electron", "SQLite"],
+      "bullets": [
+        "Developed a local-first note-taking app with real-time sync across devices using CRDTs.",
+        "Published to GitHub with 200+ stars in the first month."
+      ]
+    }
+  ],
+
+  "skills": {
+    "languages": ["Python", "TypeScript", "JavaScript", "Go", "SQL", "HTML/CSS"],
+    "frameworks": ["React", "Next.js", "Node.js", "FastAPI", "Tailwind", "Docker", "AWS"],
+    "other": []
+  },
+
+  "awards": [
+    {
+      "title": "1st Place — University Hackathon 2025",
+      "organizer": "UWaterloo CS",
+      "location": "Waterloo",
+      "date": "2025-03"
+    },
+    {
+      "title": "Best Developer Tool — DeltaHacks 2024",
+      "organizer": "DeltaHacks",
+      "date": "2024-01"
+    }
+  ],
+
+  "publications": [],
+
+  "leadership": [
+    {
+      "role": "President",
+      "organization": "Computer Science Club",
+      "location": "Waterloo",
+      "startDate": "2024-09",
+      "endDate": null,
+      "current": true,
+      "description": "Organized technical workshops, coding competitions, and industry speaker events."
+    }
+  ],
+
+  "workAuthorization": {
+    "canada": true,
+    "us": false,
+    "requireSponsorship": false
+  },
+
+  "availability": {
+    "noticePeriod": "2 weeks",
+    "earliestStartDate": "2026-05-01"
+  }
+}

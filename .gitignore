@@ -1,0 +1,26 @@
+# ── Personal Data (gitignored — use the .example files as templates) ──────────
+data/profile.json
+data/answers.json
+data/preferences.json
+data/queue.csv
+
+# Resumes contain personal PII — keep directory structure, ignore files
+resumes/*
+!resumes/.gitkeep
+
+# Root-level screenshots from application sessions
+screenshot-*.png
+
+# ── Runtime Output ────────────────────────────────────────────────────────────
+artifacts/
+browser-profile/
+
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+
+# ── Local Config ──────────────────────────────────────────────────────────────
+.claude/
+
+# ── System ────────────────────────────────────────────────────────────────────
+node_modules/
+.DS_Store

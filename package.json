@@ -1,0 +1,10 @@
+{
+  "name": "joku",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Kinkajou — Claude Code job application agent",
+  "scripts": {
+    "sync": "bun run scripts/sync-profile.ts",
+    "sync:dry": "bun run scripts/sync-profile.ts --dry-run"
+  }
+}

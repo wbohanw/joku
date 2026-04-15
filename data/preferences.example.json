@@ -1,0 +1,31 @@
+{
+  "_version": 1,
+  "_note": "Copy this file to preferences.json and customize. Controls Joku's behavior during applications.",
+
+  "targetRoles": [
+    "Software Engineer",
+    "Software Developer",
+    "SWE Intern",
+    "Full Stack Engineer",
+    "Backend Engineer",
+    "Frontend Engineer"
+  ],
+
+  "targetLocations": ["Canada", "Remote", "United States"],
+
+  "excludeCompanies": [],
+
+  "salaryMin": null,
+  "salaryMax": null,
+
+  "coverLetterDefault": "skip",
+
+  "autoSubmit": false,
+  "pauseBeforeEverySubmit": true,
+
+  "screenshotEveryStep": false,
+
+  "resumeFileDefault": "./resumes/resume.pdf",
+
+  "notifyDiscordOnApply": false
+}

@@ -1,0 +1,41 @@
+{
+  "_version": 1,
+  "_note": "Copy this file to answers.json and fill in your actual answers. Claude reads this file to auto-answer common ATS screening questions.",
+
+  "work_authorization_canada": "Yes",
+  "work_authorization_us": "No",
+  "require_sponsorship": "No",
+  "require_sponsorship_now_or_future": "No",
+
+  "salary_expectation": 90000,
+  "salary_note": "Prefer to discuss based on total compensation and role scope.",
+
+  "relocation": "Yes, open to relocation within Canada",
+  "remote_preference": "I prefer hybrid",
+
+  "notice_period": "2 weeks",
+  "earliest_start_date": "2026-05-01",
+
+  "years_of_experience_software": "3",
+
+  "how_did_you_hear": "Company website",
+
+  "why_interested_short": "I'm excited by this role because it aligns with my background in building scalable user-facing systems and my interest in developer tooling.",
+
+  "gender": "Prefer not to say",
+  "ethnicity": "Prefer not to say",
+  "veteran_status": "I am not a veteran",
+  "disability_status": "I do not have a disability",
+
+  "linkedin_profile": "https://www.linkedin.com/in/yourhandle",
+  "github_profile": "https://github.com/yourhandle",
+  "portfolio": "https://yourwebsite.dev",
+  "email": "you@example.com",
+
+  "phone": "+1 5550001234",
+
+  "references": "Available upon request",
+
+  "willing_to_travel": "Occasionally, up to 10%",
+  "us_clearance": "No"
+}
