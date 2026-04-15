@@ -13,6 +13,32 @@ No server. No deployment. No browser extension. Just open the folder in Claude C
 
 ---
 
+## Quick Start
+
+```bash
+git clone https://github.com/wbohanw/joku.git
+cd joku
+claude
+```
+
+Then in Claude Code, type:
+
+```
+setup
+```
+
+The setup wizard will install the browser, copy the config templates, and walk you through entering your profile and resume. Takes about 2 minutes.
+
+Once setup is done:
+
+```
+apply to https://boards.greenhouse.io/acme/jobs/12345
+```
+
+---
+
+---
+
 ## Supported ATS
 
 | ATS | Detection signal |
